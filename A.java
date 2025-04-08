@@ -6,6 +6,8 @@ public class A {
             System.out.println("Shrusti");
             System.out.println("Deepa";)
             System.out.println("MASTER";)
+            System.out.println("MAIN";)
+            
         }
 
 }
